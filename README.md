@@ -1,7 +1,7 @@
-# Quote Generator
+# Quote-Generator
 
-* Satisfy your inner-intellectual with a constant supply of quotes.
-* Tweet a quote you want to share with one click.
+* satisfy inner-intellectual with constant supply of wisdom from the ancients
+* tweet quote you want to share with ~1 click and spread the wise sayings of Old
 
 ## Stack
 
